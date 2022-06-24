@@ -1,0 +1,8 @@
+D:\repos\CHM1\CHM1\bin\Debug\CHM1.exe.config
+D:\repos\CHM1\CHM1\bin\Debug\CHM1.exe
+D:\repos\CHM1\CHM1\bin\Debug\CHM1.pdb
+D:\repos\CHM1\CHM1\obj\Debug\CHM1.csproj.AssemblyReference.cache
+D:\repos\CHM1\CHM1\obj\Debug\CHM1.csproj.SuggestedBindingRedirects.cache
+D:\repos\CHM1\CHM1\obj\Debug\CHM1.csproj.CoreCompileInputs.cache
+D:\repos\CHM1\CHM1\obj\Debug\CHM1.exe
+D:\repos\CHM1\CHM1\obj\Debug\CHM1.pdb
